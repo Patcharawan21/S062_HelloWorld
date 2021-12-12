@@ -41,6 +41,8 @@
 
 -----------
 ## Case Study : My Transcript ##
+สามารถเข้าถึง repository ได้ โดย [คลิกที่นี่](https://github.com/Patcharawan21/MyTranscript.git)
+
 ### Branch 4 เพิ่มข้อมูลไปยัง DataGridView ###
 สามารถเพิ่มข้อมูลไปยัง Form1 ได้ถูกต้อง 
 โดยมีการแก้ไขการรับข้อมูลในส่วนของ Credit ในฟังก์ชัน AddGrade
@@ -124,7 +126,7 @@ private void AddGrade(object sender, EventArgs e)
 }
 ```
 
-สร้างฟังก์ชัน SaveFile ที่รองรับการเพิ่มทุกภาคการศึกษาลงไฟในไฟล์
+สร้างฟังก์ชัน SaveFile ที่รองรับการเพิ่มทุกภาคการศึกษาลงไปในไฟล์
 
 ``` cs
 private void SaveFile(object sender, EventArgs e)
@@ -281,3 +283,8 @@ private void SaveFile(object sender, EventArgs e)
     }
 }
 ```
+
+ผลการทำงาน
+<img src = "./image_tosubmit/Save_result.png">
+<img src = "./image_tosubmit/after_save.png">
+<img src = "./image_tosubmit/Excel.png">

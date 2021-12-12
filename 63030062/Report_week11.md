@@ -1,23 +1,17 @@
-# รายงานการทดลอง และ Case study#
+# รายงานการทดลอง และ Case study #
 # สัปดาห์ที่ 11 การใช้งาน git ร่วมกับ Visual studio IDE #
 -----------
 ## Experiment ##
 ### 11.1 การสร้าง repository บน GitHub ด้วย Visual Studio ###
-```
 มี repository ปรากฎขึ้นบน github.com หลังสร้าง repository ด้วย Visual Studio
-```
 <img src = "./image_tosubmit/Picture4.png">
 
-```
-ภาพหน้าจอจากการ build และ run program "Hello"
-```
 
+ภาพหน้าจอจากการ build และ run program "Hello"
 <img src = "./image_tosubmit/Picture5.png">
 
-```
 เมื่อทำการ sync พบว่า repository บน github มีการ update 
 โดยมี commit ตามที่ตั้งไว้ และไฟล์ต่างๆได้ถูก push ขึ้นมาบน repository ดังกล่าว เรียบร้อย
-```
 
 <table>
 <tr>

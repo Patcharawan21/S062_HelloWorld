@@ -56,7 +56,7 @@ private void AddGrade(object sender, EventArgs e)
     newCourse.Grade = textBoxGrade.Text;
 }
 ```
-<img src = "./image_tosubmit/17">
+<img src = "./image_tosubmit/Picture17.png">
 
 ### Branch 5 เพิ่ม tab control เพื่อแยกภาคการศึกษา ###
 เพิ่ม tab ตามจำนวนภาคการศึกษา รวม 8 ภาคการศึกษา และการฝึกงานในอีก 1 ภาคฤดูร้อน

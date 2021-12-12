@@ -4,6 +4,6 @@
 ### ส่วนรูปและผลการทำงาน ###
 [รายงานรวมการทำงานในการทดลองและกรณีศึกษา](./Report_week11.md)
 
-[รายงานการตอบแบบฝึกหัดและคำถาม](./week_11_Excescise.md)
+[รายงานการตอบแบบฝึกหัดและคำถาม](./Week_11_Excescise.md)
 
 [Case Study Repository: MyTranscript](https://github.com/Patcharawan21/MyTranscript.git)
